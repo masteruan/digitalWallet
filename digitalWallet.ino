@@ -79,7 +79,7 @@ void loop() {
         Keyboard.press(KEY_LEFT_ALT);
         Keyboard.print(";");
         Keyboard.releaseAll();
-        Keyboard.print("domain.com");*/
+        Keyboard.print("domain.com");
         delay(50);
         Keyboard.press(KEY_TAB);
         Keyboard.releaseAll();
